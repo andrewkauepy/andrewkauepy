@@ -1,0 +1,30 @@
+# Este repositorio e PUBLICO — o repo de perfil do GitHub tem que ser publico
+# para o README aparecer. Entao aqui so entra o que pode ser visto por qualquer
+# pessoa, e tudo que e rascunho fica de fora.
+
+# previews locais (HTML gerado pra conferir antes de publicar)
+_corpo.html
+preview.html
+preview-escuro.html
+
+# comparativos e variantes descartadas — material de trabalho, nao do perfil
+assets/comparativo*.png
+assets/opcoes-banner.png
+assets/var-*.png
+assets/pura.png
+assets/faixa-com-frase.png
+assets/kaue-final.png
+assets/perfil-kaue-*.png
+comparar.py
+
+# nada de ambiente
+.env
+.env.local
+__pycache__/
+*.pyc
+
+# artes fonte duplicadas: fogo.jpg e sobre.jpg ja SAO essas imagens.
+# origem-1 (o guerreiro) saiu de uso quando o banner virou o PROJECT.EXE.
+assets/origem-1.jpg
+assets/origem-2.jpg
+assets/origem-3.jpg
