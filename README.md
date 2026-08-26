@@ -19,24 +19,14 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>Fala! Eu sou o Kauê 👋</h3>
+      <h3>Oi, me chamo Kauê 👋</h3>
       <p>
-        Se eu faço a mesma coisa duas vezes na mão, na terceira eu passo três
-        dias escrevendo um script que economiza dez minutos. Não me arrependo de
-        nenhuma delas.
+        Sou gestor de tráfego pago e construo agentes pra automatizar qualquer
+        tipo de trabalho.
       </p>
       <p>
-        Trabalho com tráfego pago e com canais de corte — gente errando em jogo,
-        basicamente. Já automatizei o corte, a legenda, a renderização e a
-        publicação. Ainda não consegui automatizar assistir.
-      </p>
-      <p>
-        Também construí um escritório 3D só pra ver os agentes trabalhando. Eles
-        passam a maior parte do tempo ociosos. Bem realista.
-      </p>
-      <p>
-        Estudo <b>Nutrição</b>. Todo mundo pergunta o que isso tem a ver com o
-        resto. Nada.
+        Já automatizei empresa com <b>54 agentes</b> em árvore.<br>
+        Já automatizei canal de YouTube que publica <b>15 vídeos por dia</b>.
       </p>
     </td>
     <td width="35%" valign="middle" align="center">
