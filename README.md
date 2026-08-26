@@ -21,12 +21,19 @@
     <td width="65%" valign="top">
       <h3>Oi, me chamo Kauê 👋</h3>
       <p>
-        Sou gestor de tráfego pago e construo agentes pra automatizar qualquer
-        tipo de trabalho.
+        Minha especialidade está em unir programação, automação e inteligência
+        artificial para criar soluções inteligentes.
       </p>
       <p>
-        Já automatizei empresa com <b>54 agentes</b> em árvore.<br>
-        Já automatizei canal de YouTube que publica <b>15 vídeos por dia</b>.
+        Já desenvolvi projetos envolvendo dezenas de agentes trabalhando
+        simultaneamente, automações para produção e distribuição de conteúdo em
+        múltiplas plataformas e sistemas capazes de operar centenas de tarefas
+        de forma praticamente autônoma.
+      </p>
+      <p>
+        Tenho uma regra simples: é muito difícil eu fazer a mesma coisa três
+        vezes. Se precisei repetir duas, provavelmente na terceira eu já
+        automatizei o processo.
       </p>
     </td>
     <td width="35%" valign="middle" align="center">
