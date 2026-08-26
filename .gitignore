@@ -28,3 +28,11 @@ __pycache__/
 assets/origem-1.jpg
 assets/origem-2.jpg
 assets/origem-3.jpg
+
+# prints de trabalho (previews e recortes que eu gerei pra ele conferir).
+# Ficam no disco pra consulta, fora do repositorio publico.
+assets/kaue-v*.png
+assets/perfil-final.png
+assets/projetos-v*.png
+assets/readme-final.png
+assets/recorte-*.png
