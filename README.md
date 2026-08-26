@@ -93,10 +93,17 @@
   <a href="mailto:contatoandrewkaue@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <br><br>
-  <sub><i>Código nunca fica pronto. Só fica um pouco menos ruim.<br>
-  Todo commit é, no fundo, um pedido de desculpas pro meu eu do mês que vem.</i></sub>
+  <br>
 </div>
+
+<!--
+  Aqui havia duas frases "espirituosas" que eu escrevi. Eram TRADUCAO das do
+  perfil que serviu de modelo:
+    "Code is never finished. It only becomes slightly less terrible over time."
+    "Every commit is a small, desperate apology to my future self."
+  Copiar a piada de outra pessoa e assinar como sua e pior do que nao ter piada
+  nenhuma. Se entrar texto aqui, tem que ser dele.
+-->
 
 <br>
 
