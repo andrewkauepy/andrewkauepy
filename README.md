@@ -53,24 +53,26 @@
   <tr>
     <td width="65%" valign="top">
       <br>
-      <b>◆ MISSION CONTROL</b><br>
-      <sub>Painel de operação com 34 telas e 54 APIs, incluindo um escritório 3D
-      onde os agentes aparecem trabalhando. Porque planilha não mostra quem está
-      parado.</sub>
+      <b>◆ EMPRESA AUTOMATIZADA — 54 AGENTES</b><br>
+      <sub>Cinquenta e quatro agentes trabalhando ao mesmo tempo, em árvore. Eles
+      editam vídeo, publicam no Instagram e respondem os comentários. Um painel
+      próprio mostra quem está trabalhando e quem está parado, em tempo real.</sub>
       <br><br>
-      <b>◆ PROJETONOVVA</b><br>
-      <sub>Sistema de gestão para escritório de arquitetura. Cronômetro por etapa,
-      porque a pergunta que ninguém sabia responder era "quanto tempo esse projeto
-      já consumiu?".</sub>
+      <b>◆ 5 CANAIS · 15 VÍDEOS POR DIA</b><br>
+      <sub>Produção e distribuição rodando sozinhas em YouTube, TikTok e outras
+      plataformas. Corte, legenda, renderização, agendamento e publicação — sem
+      ninguém apertar botão.</sub>
       <br><br>
-      <b>◆ ESTEIRA DE CONTEÚDO</b><br>
-      <sub>Corta, legenda, renderiza e publica vídeo sozinha nos canais. Nasceu de
-      uma madrugada editando na mão e da promessa de não repetir aquilo.</sub>
+      <b>◆ EDIÇÃO DE VÍDEO EM MASSA</b><br>
+      <sub>Mais de cem vídeos editados num único dia. Detecção do corte por pico
+      de áudio, legenda gerada por transcrição e montagem final em fila — tudo
+      local, sem serviço pago no meio.</sub>
       <br><br>
-      <b>◆ PAINEL</b><br>
-      <sub>Operação clínica com 54 agentes em árvore, cada um com sua função e
-      seu pedaço de memória. O maior dos quatro, e o que me ensinou que agente
-      sem hierarquia não é time — é barulho.</sub>
+      <b>◆ DUAS IAs CONSTRUINDO O MESMO SISTEMA</b><br>
+      <sub>Duas instâncias de IA, em máquinas e donos diferentes, desenvolvendo o
+      mesmo sistema em turnos: uma escreve, a outra revisa e aponta o erro, e só
+      então troca a vez. Elas conversam por um canal próprio e nunca executam ao
+      mesmo tempo. Cada uma já achou defeito real no trabalho da outra.</sub>
       <br>
     </td>
     <td width="35%" valign="middle" align="center">
