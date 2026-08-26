@@ -53,26 +53,39 @@
   <tr>
     <td width="65%" valign="top">
       <br>
-      <b>◆ EMPRESA AUTOMATIZADA — 54 AGENTES</b><br>
-      <sub>Cinquenta e quatro agentes trabalhando ao mesmo tempo, em árvore. Eles
-      editam vídeo, publicam no Instagram e respondem os comentários. Um painel
-      próprio mostra quem está trabalhando e quem está parado, em tempo real.</sub>
+      <b>◆ MISSION CONTROL</b> — <sub>centro de operação</sub><br>
+      <sub><b>34 telas · 54 APIs · escritório 3D em tempo real.</b> Um painel
+      único para toda a operação. O escritório 3D é renderizado com Three.js e
+      cada agente é um avatar que se move enquanto trabalha e para quando fica
+      ocioso — dá pra ver quem está produzindo olhando a sala. Controla mais de
+      10 canais do YouTube, com métricas puxadas de hora em hora pela API
+      oficial, autenticação por OAuth e retenção real de cada vídeo. Terminal
+      embutido, kanban, calendário e coleta automática agendada no sistema
+      operacional.</sub>
       <br><br>
-      <b>◆ 5 CANAIS · 15 VÍDEOS POR DIA</b><br>
-      <sub>Produção e distribuição rodando sozinhas em YouTube, TikTok e outras
-      plataformas. Corte, legenda, renderização, agendamento e publicação — sem
-      ninguém apertar botão.</sub>
+      <b>◆ ÁRVORE DE AGENTES</b> — <sub>54 agentes simultâneos</sub><br>
+      <sub><b>Hierarquia de verdade, não uma lista.</b> Um coordenador, 7 líderes
+      de setor e 46 especialistas, cada um com função definida e memória própria
+      em disco. Eles editam vídeo, publicam no Instagram e respondem comentários
+      — ao mesmo tempo, sem se atropelar. Cada agente escreve o que fez, e é essa
+      escrita que o painel lê para saber quem está vivo. Agente que trava é
+      detectado por ausência de sinal, não por alguém perceber.</sub>
       <br><br>
-      <b>◆ EDIÇÃO DE VÍDEO EM MASSA</b><br>
-      <sub>Mais de cem vídeos editados num único dia. Detecção do corte por pico
-      de áudio, legenda gerada por transcrição e montagem final em fila — tudo
-      local, sem serviço pago no meio.</sub>
+      <b>◆ ESTEIRA DE VÍDEO</b> — <sub>10+ canais, 15 vídeos/dia</sub><br>
+      <sub><b>Do vídeo bruto ao publicado sem ninguém tocar.</b> A esteira baixa,
+      acha o momento do corte pelo pico de áudio, transcreve a fala com Whisper,
+      gera legenda karaokê sincronizada palavra por palavra, monta o formato
+      vertical com ffmpeg, agenda e publica — em YouTube, TikTok e outras.
+      <b>Roda 100% local: nenhuma API paga no caminho</b>, o que significa custo
+      zero por vídeo em qualquer volume.</sub>
       <br><br>
-      <b>◆ DUAS IAs CONSTRUINDO O MESMO SISTEMA</b><br>
-      <sub>Duas instâncias de IA, em máquinas e donos diferentes, desenvolvendo o
-      mesmo sistema em turnos: uma escreve, a outra revisa e aponta o erro, e só
-      então troca a vez. Elas conversam por um canal próprio e nunca executam ao
-      mesmo tempo. Cada uma já achou defeito real no trabalho da outra.</sub>
+      <b>◆ PROJETO NOVVA</b> — <sub>duas IAs construindo o mesmo sistema</sub><br>
+      <sub><b>Sistema de gestão para escritório de arquitetura, com cronômetro
+      por etapa</b> — e construído por duas instâncias de IA em máquinas e donos
+      diferentes, trabalhando em turnos. Uma escreve, a outra revisa e aponta o
+      erro antes de assumir a vez; elas conversam por um canal próprio e nunca
+      executam ao mesmo tempo. Cada uma já achou defeito real no código da outra,
+      e cada conserto entra com o teste que o pega.</sub>
       <br>
     </td>
     <td width="35%" valign="middle" align="center">
